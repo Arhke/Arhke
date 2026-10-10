@@ -15,7 +15,6 @@ I am a security researcher and software engineer specializing in application sec
 *   **Infrastructure & Tools:** AWS, Terraform, Git, Maven, CI/CD (GitHub Actions)
 
 ###  Featured Work
-*(Pin your top repositories to your profile, and they will display nicely right below this README. Make sure they include:*
 *   **Custom Linux OS:** A minimal OS featuring multiprocessing, multithreading, and custom file systems.
 *   **Secure Client System:** End-to-end file encryption, signatures, and access control.
 *   **Vulnerability PoCs:** Proof-of-concept scripts and CTF write-ups.
